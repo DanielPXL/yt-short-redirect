@@ -8,7 +8,7 @@
   
     "content_scripts": [
       {
-        "matches": ["*://*.youtube.com/shorts/*"],
+        "matches": ["*://*.youtube.com/*"],
         "js": ["redirect.js"]
       }
     ]
