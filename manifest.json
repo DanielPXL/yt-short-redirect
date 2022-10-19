@@ -1,7 +1,7 @@
 {
 
     "manifest_version": 2,
-    "name": "YT Shrot Redirect",
+    "name": "YT Short Redirect",
     "version": "0.1",
   
     "description": "A WebExtension that detects when you're watching YouTube Shorts and redirects you to the same video in the normal video player",
