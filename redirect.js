@@ -1,0 +1,1 @@
+window.location.href = "https://www.youtube.com/watch?v=" + window.location.href.substring(window.location.href.lastIndexOf("/") + 1,);
